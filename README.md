@@ -15,7 +15,7 @@ These guys will be here soon when ready!
 
 Design with ❤️ by Kaffair Core
 
-Shield: [![CC BY 4.0][cc-by-shield]][cc-by]
+[![CC BY 4.0][cc-by-shield]][cc-by]
 
 This work is licensed under a
 [Creative Commons Attribution 4.0 International License][cc-by].

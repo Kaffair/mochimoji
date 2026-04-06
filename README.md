@@ -8,9 +8,10 @@ MochiMoji is a **one-man passion project.** I'm currently designing the first in
 
 ## 📅 Roadmap
 In Progress: v0.1.0 Early Acesss release with first initial set of emojis.
+
 Next Goal:
 
-Expanding the emoji libraly.
+Expanding the emoji library for 1.0.0 release
 
 1.0.0 Full Release: includes all essential smileys and most-used emojis.
 

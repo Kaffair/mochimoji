@@ -3,7 +3,7 @@
 
 **Upcoming free and open source emoji library for everyone!**
 
-# Current Status: Under Development (Early Access)
+# Current Status: Under Development (Early Access Release)
 MochiMoji is a **one-man passion project.** I'm currently designing the first initial set of emojis. Keep an eye on this repo for the first official release!
 
 ## 📅 Roadmap

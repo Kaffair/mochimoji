@@ -3,17 +3,23 @@
 
 **Upcoming free and open source emoji library for everyone!**
 
-# Current Status: Under Development (Early Access Release)
-MochiMoji is a **one-man passion project.** I'm currently designing the first initial set of emojis. Keep an eye on this repo for the first official release!
+# Current Status: Early Access Release Work In Progress
+MochiMoji is a **one-man passion project.**
+I’m currently active and making new emoji every day.
+
+While wating for the new release versions, you can check the progress and download the new emoji that are not released yet here:
+
+[SVG Files](./svg/)
+[PNG Files](./png/)
 
 ## 📅 Roadmap
 In Progress: v0.1.0 Early Acesss release with first initial set of emojis.
 
 Next Goal:
 
-Expanding the emoji library for 1.0.0 release
+Expand the emoji library for 1.0.0 release
 
-1.0.0 Full Release: includes all essential smileys and most-used emojis.
+1.0.0 Full Release with all essential smileys and most-used emojis.
 
 Long-Term goal:
 I hope to eventually expand the library to match 1,000+ Unicode emojis. This is a challenging task for a solo creator, but I’m committed to growing this library and making it as good as it can be.
